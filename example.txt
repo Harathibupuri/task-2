@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello guys how are you all
+=======
+hello guys good morning.
+>>>>>>> feature3
